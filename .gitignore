@@ -1,0 +1,12 @@
+# Visual studio files and folders
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.filters
+
+# Build
+out/
+
+
